@@ -33,15 +33,6 @@ Built with **Streamlit**, it provides an interactive web interface for users to 
 - **Matplotlib**
 
 ---
-
-## 📂 Project Structure
-AI_Skin_Disease_Detection/
-│
-├── app.py # Main Streamlit Frontend
-├── 1_Detect_Skin_Disease.py # Backend Prediction Logic
-├── final_skin_model.1.keras # Trained CNN Model
-├── skin_type_model.keras # Skin Type Model
-├── requirements.txt # Dependencies
-└── README.md # Project Documentation
+Done by: JAI HARINI K S and Priya Darshini R
 
 
